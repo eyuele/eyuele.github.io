@@ -1,0 +1,5 @@
+cd eyuele.github.io
+touch .nojekyll
+git add .nojekyll
+git commit -m "Add .nojekyll to enable GitHub Pages"
+git push
